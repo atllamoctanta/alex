@@ -219,3 +219,10 @@ footer {
 footer a {
     color: #8093fa;
 }
+
+ @font-face {
+            font-family: 'BatmanForeverOutline';
+            src: url('../fonts/batmfo__.ttf');
+            font-weight: normal;
+            font-style: normal;
+        }
