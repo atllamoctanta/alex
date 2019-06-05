@@ -225,4 +225,10 @@ footer a {
             src: url('../fonts/batmfo__.ttf');
             font-weight: normal;
             font-style: normal;
-        }
+ }
+ @font-face {
+            font-family: 'Rockwell';
+            src: url('../fonts/rockb.ttf');
+            font-weight: normal;
+            font-style: normal;
+}
